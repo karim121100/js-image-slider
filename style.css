@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.slider {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
